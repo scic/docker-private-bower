@@ -1,4 +1,4 @@
-FROM node:4.2
+FROM node:4.8
 
 MAINTAINER Mads M. Tandrup <mads@maetzke-tandrup.dk>
 
